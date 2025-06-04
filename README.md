@@ -29,3 +29,9 @@ Bem-vindo à landing page desenvolvida para o **Cursinho Popular Brasilândia**,
 
 ## 📁 Estrutura do projeto
 
+landing-page-cursinho/
+├── index.html
+├── src/
+│ ├── styles/ → CSS modularizado
+│ ├── javascript/ → JS da página e doações
+│ └── images/ → Imagens do projeto
